@@ -1,4 +1,4 @@
-## rss  [![Build Status](http://img.shields.io/travis/dylang/node-rss.svg)](https://travis-ci.org/dylang/node-rss) [![rss](http://img.shields.io/npm/dm/rss.svg)](https://www.npmjs.org/package/rss)
+## rss  [![CI](https://github.com/dylang/node-rss/actions/workflows/ci.yml/badge.svg)](https://github.com/dylang/node-rss/actions/workflows/ci.yml) [![rss](http://img.shields.io/npm/dm/rss.svg)](https://www.npmjs.org/package/rss)
 
 > RSS feed generator. Add RSS feeds to any project. Supports enclosures and GeoRSS.
 
